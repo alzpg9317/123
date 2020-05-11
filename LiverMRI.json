@@ -14453,6 +14453,7 @@
       "isHeadline": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "select",
       "name": "Measured in",
       "textGenerationRules": null,
       "children": [
