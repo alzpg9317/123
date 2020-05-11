@@ -4075,6 +4075,7 @@
       "isHeadline": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "select",
       "name": "Total number of liver lesions",
       "textGenerationRules": null,
       "children": [
