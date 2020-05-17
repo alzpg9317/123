@@ -14228,6 +14228,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "Add",
       "name": "Other",
       "children": [
         "878699c8-fd96-46ee-8bfd-edde6b042db2"
