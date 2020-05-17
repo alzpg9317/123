@@ -10764,6 +10764,7 @@
       "isHeadline": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "Textbox",
       "name": "Size of the lesion",
       "textGenerationRules": null,
       "children": [
