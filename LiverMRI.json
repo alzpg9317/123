@@ -685,6 +685,7 @@
       "isPreselected": true,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Not specified",
       "texts": [
         ""
@@ -708,6 +709,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Contrast pooling",
       "texts": [
         ""
@@ -734,6 +736,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Ring enhancement",
       "children": []
     },
@@ -4110,6 +4113,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Extracapsular extension",
       "texts": [
         ""
@@ -4343,6 +4347,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Pseudocapsule",
       "texts": [
         ""
@@ -4535,6 +4540,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Diffusion restriction",
       "texts": [
         ""
@@ -10086,6 +10092,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Portal vein infiltration",
       "texts": [
         ""
@@ -12378,6 +12385,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "Add",
       "name": "Other",
       "children": [
         "ced7f205-042e-4ce1-a5c9-511201e4f1ff"
@@ -14283,6 +14291,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Washout phenomenon",
       "texts": [
         ""
@@ -16751,6 +16760,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Fat content",
       "texts": [
         ""
