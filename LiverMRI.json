@@ -90,6 +90,7 @@
       "isPreselected": true,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Not specified",
       "children": []
     },
@@ -1530,6 +1531,7 @@
       "isHeadline": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "select",
       "name": "Size",
       "textGenerationRules": null,
       "children": [
@@ -6531,6 +6533,7 @@
       "isHeadline": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "select",
       "name": "Sludge",
       "textGenerationRules": null,
       "children": [
@@ -10820,6 +10823,7 @@
       "isPreselected": true,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Not specified",
       "children": []
     },
@@ -10952,6 +10956,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "Add",
       "name": "Yes",
       "children": [
         "d567bde4-a28b-4c8d-91ff-e4ad1c894988",
@@ -12739,6 +12744,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "No",
       "children": []
     },
@@ -13977,6 +13983,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "Add",
       "name": "Remarkable",
       "children": [
         "1d56d972-c454-4fc8-8238-8aa8e7ebc61a",
@@ -14064,6 +14071,7 @@
       "isHeadline": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "select",
       "name": "Wall thickness",
       "textGenerationRules": null,
       "children": [
@@ -14687,6 +14695,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Status post cholecystectomy",
       "children": []
     },
@@ -15211,6 +15220,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Unremarkable",
       "children": []
     },
@@ -16945,6 +16955,7 @@
       "isHeadline": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "select",
       "name": "Calculi",
       "textGenerationRules": null,
       "children": [
