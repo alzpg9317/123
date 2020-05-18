@@ -1508,6 +1508,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "Add",
       "name": "Yes",
       "children": [
         "fb1189b4-36e9-48e5-b682-913ae06def5c"
@@ -2325,6 +2326,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Perihepatic",
       "children": []
     },
@@ -3726,6 +3728,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "No",
       "children": []
     },
@@ -4199,6 +4202,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "No",
       "texts": [
         ""
@@ -4292,6 +4296,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "Add",
       "name": "Other",
       "children": [
         "1950f57a-b145-4339-9bec-03352aac38ca"
@@ -4517,6 +4522,7 @@
       "isPreselected": true,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Not specified",
       "children": []
     },
@@ -11080,6 +11086,7 @@
       "isPreselected": true,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Not specified",
       "children": []
     },
@@ -12425,6 +12432,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Perisplenic",
       "children": []
     },
@@ -13148,6 +13156,7 @@
       "isPreselected": true,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Not specified",
       "children": []
     },
@@ -13630,6 +13639,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Remaning upper abdomen",
       "children": []
     },
@@ -13739,6 +13749,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "Add",
       "name": "Yes",
       "children": [
         "c3a7d23a-11b6-4795-8b0e-a2ce3c258a3e"
