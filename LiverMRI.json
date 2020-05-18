@@ -168,6 +168,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Normal",
       "texts": [
         ""
@@ -1894,6 +1895,7 @@
       "isPreselected": true,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Not specified",
       "children": []
     },
@@ -2176,6 +2178,7 @@
       "isPreselected": true,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Not specified",
       "children": []
     },
@@ -3171,6 +3174,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "Add",
       "name": "Present",
       "children": [
         "b502cfc7-e068-442e-ac75-dfdad2fa6826"
@@ -10082,6 +10086,7 @@
       "isPreselected": true,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Not specified",
       "children": []
     },
@@ -11272,6 +11277,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "Add",
       "name": "Perfusion defect",
       "children": [
         "47ba091b-ddf3-4274-8963-f8ceb24b82e5"
@@ -12592,6 +12598,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Not present",
       "texts": [
         ""
@@ -12865,6 +12872,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "Add",
       "name": "Hypertrophy",
       "children": [
         "fd68bd69-17e3-4d1f-8d36-e5330e7631b5",
@@ -14052,6 +14060,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "Add",
       "name": "Iron deposition",
       "children": [
         "c6aa0605-36b4-49da-b62a-d6b0170480fb"
@@ -14695,6 +14704,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "Add",
       "name": "Steatosis",
       "children": [
         "f0013e40-645b-45f2-9378-82f064630470"
@@ -15443,6 +15453,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "Add",
       "name": "Hypotrophy",
       "children": [
         "e3b15874-cdf9-45e5-8f02-619cb5969b3a",
@@ -16963,6 +16974,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "Add",
       "name": "Other",
       "children": [
         "f2049296-460d-45b2-a18e-c59cc2869e7b"
