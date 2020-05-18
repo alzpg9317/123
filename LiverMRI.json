@@ -11208,7 +11208,6 @@
       "autoSelect": null,
       "autoHide": null,
       "kind": "Add",
-      "textbox": "1",
       "name": "Free text",
       "children": [
         "918b6d86-93c6-408d-96bc-d8a7cc54923e"
