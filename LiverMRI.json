@@ -4083,6 +4083,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Multiple",
       "children": []
     },
@@ -4349,6 +4350,7 @@
       "isPreselected": true,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Not specified",
       "children": []
     },
@@ -5046,6 +5048,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "One",
       "children": []
     },
@@ -14500,6 +14503,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "Add",
       "name": "Other",
       "children": [
         "42a63f99-0e05-4113-8c5e-290550bf442d"
@@ -17073,6 +17077,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Two",
       "children": []
     },
