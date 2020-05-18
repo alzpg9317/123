@@ -2209,6 +2209,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Status post resection",
       "children": []
     },
@@ -3289,6 +3290,7 @@
       "isPreselected": true,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Not specified",
       "children": []
     },
@@ -4047,6 +4049,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Status post radiofrequency ablation (RFA)",
       "children": []
     },
@@ -4795,6 +4798,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Status post transarterial chemoembolization (TACE)",
       "children": []
     },
@@ -10992,6 +10996,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "Add",
       "name": "Other",
       "children": [
         "06cb4b40-3fe0-4c96-adb3-165804f2e4cd"
@@ -14090,6 +14095,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Not present",
       "children": []
     },
@@ -14213,6 +14219,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "Add",
       "name": "Present",
       "children": [
         "38314282-92df-4428-a7a3-3b1c8af63e89",
@@ -14362,6 +14369,7 @@
       "isPreselected": true,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Not specified",
       "children": []
     },
@@ -15260,6 +15268,7 @@
       "isPreselected": false,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Status post selective internal radiation therapy (SIRT)",
       "children": []
     },
