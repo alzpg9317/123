@@ -3126,6 +3126,7 @@
       "isPreselected": true,
       "autoSelect": null,
       "autoHide": null,
+      "kind": "end",
       "name": "Not specified",
       "children": []
     },
